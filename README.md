@@ -3,7 +3,7 @@ Acredito que tudo é aprendizado e sempre é possível melhorar!
 <br><br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cavm.carolina@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carolinacavallimachado)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinacavallimachado)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=dracula)
 
