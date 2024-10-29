@@ -23,5 +23,5 @@ Acredito que tudo é aprendizado e sempre é possível melhorar!
 
 <div style="display: inline_block;">
     <img height="180" alt="linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavMCarolina&layout=compact&theme=dracula&langs_count=8">
-    <img height="180" align="right" alt="gif" src="https://cdn.discordapp.com/attachments/1050557590532272171/1297010016372392007/ezgif.com-animated-gif-maker.gif?ex=67145e35&is=67130cb5&hm=80eae120b31cc30b7fe044d5e14148fde6b16b5a34ee440c8a05bb484a0a6bd4&">
+    <img height="180" align="right" alt="gif" src="gif_github.gif">
 </div>
