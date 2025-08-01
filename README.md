@@ -23,45 +23,43 @@
 <div align="center">
   <h3>~~ Git Stats ~~</h3>
   <br>
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=dracula">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=catppuccin_latte">
-      <img align="left" height="180" alt="git stats" src="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CavMCarolina&layout=compact&theme=dracula&langs_count=8">
-      <source media="(prefers-color-scheme: light)" srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=CavMCarolina&layout=compact&theme=catppuccin_latte&langs_count=8">
-      <img align="rigth" height="180" alt="linguagens" src="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
-    </picture>
-  </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=catppuccin_latte">
+    <img align="left" height="200" alt="git stats" src="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CavMCarolina&layout=compact&theme=dracula&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=CavMCarolina&layout=compact&theme=catppuccin_latte&langs_count=8">
+    <img align="right" height="200" alt="linguagens" src="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
+  </picture>
 </div>
+
+<br><br><br><br><br><br><br><br><br>
 
 ##
 
+<img height="210" align="right" alt="gif" src="gif_github.gif">
+
+<h3>Entre em Contato!</h3>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cavm.carolina@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinacavallimachado)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cavmcarolina)
+[![Discord](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/993988678789640314)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=dracula)
+<!-- Badges futuras?
+	https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+ 	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black -->
 
-## Tecnologias:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<h3>Tecnologias:</h3>
+
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<br>
-
-<div style="display: inline_block;">
-    <img height="180" alt="linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavMCarolina&layout=compact&theme=dracula&langs_count=8">
-    <img height="180" align="right" alt="gif" src="gif_github.gif">
-</div>
+<br><br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CavMCarolina/CavMCarolina/output/github-contribution-grid-snake-dark.svg">
