@@ -25,3 +25,9 @@ Acredito que tudo é aprendizado e sempre é possível melhorar!
     <img height="180" alt="linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavMCarolina&layout=compact&theme=dracula&langs_count=8">
     <img height="180" align="right" alt="gif" src="gif_github.gif">
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CavMCarolina/CavMCarolina/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CavMCarolina/CavMCarolina/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CavMCarolina/CavMCarolina/output/github-contribution-grid-snake.svg">
+</picture>
