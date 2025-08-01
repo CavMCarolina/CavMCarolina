@@ -1,6 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=ED688E&center=true&vCenter=true&random=false&width=700&lines=%E2%8A%B9+Ol%C3%A1%2C+eu+sou+a+Carolina!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=ED688E&center=true&vCenter=true&random=false&width=700&lines=%E2%8A%B9+Ol%C3%A1%2C+eu+sou+a+Carolina!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=137980&center=true&vCenter=true&random=false&width=700&lines=%E2%8A%B9+Ol%C3%A1%2C+eu+sou+a+Carolina!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+">
+      <img alt="Letreiro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=ED688E&center=true&vCenter=true&random=false&width=700&lines=%E2%8A%B9+Ol%C3%A1%2C+eu+sou+a+Carolina!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+">
+    </picture>
   </a>
 </div>
 
@@ -13,6 +17,25 @@
 💪 Extremamente persistente diante de desafios e vou até o fim na busca por soluções
 <br>
 🌱 Tudo é aprendizado e sempre é possível melhorar!
+
+##
+
+<div align="center">
+  <h3>~~ Git Stats ~~</h3>
+  <br>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=dracula">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=catppuccin_latte">
+      <img align="left" height="180" alt="git stats" src="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CavMCarolina&layout=compact&theme=dracula&langs_count=8">
+      <source media="(prefers-color-scheme: light)" srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=CavMCarolina&layout=compact&theme=catppuccin_latte&langs_count=8">
+      <img align="rigth" height="180" alt="linguagens" src="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
+    </picture>
+  </div>
+</div>
 
 ##
 
@@ -42,6 +65,6 @@
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CavMCarolina/CavMCarolina/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CavMCarolina/CavMCarolina/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CavMCarolina/CavMCarolina/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CavMCarolina/CavMCarolina/output/github-contribution-grid-snake.svg">
 </picture>
