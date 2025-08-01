@@ -1,6 +1,20 @@
-### Olá! meu nome é Carolina Machado
-Acredito que tudo é aprendizado e sempre é possível melhorar!
-<br><br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=ED688E&center=true&vCenter=true&random=false&width=700&lines=%E2%8A%B9+Ol%C3%A1%2C+eu+sou+a+Carolina!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<br>
+
+📚 Cursando o terceiro ano de Engenharia de Software na FIAP.
+<br>
+🔍 Curiosa e versátil, gosto de explorar diferentes áreas da tecnologia.
+<br>
+💪 Extremamente persistente diante de desafios e vou até o fim na busca por soluções
+<br>
+🌱 Tudo é aprendizado e sempre é possível melhorar!
+
+##
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cavm.carolina@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinacavallimachado)
