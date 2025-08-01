@@ -26,16 +26,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=dracula">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=catppuccin_latte">
-    <img align="left" height="200" alt="git stats" src="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
+    <img height="200" alt="git stats" src="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CavMCarolina&layout=compact&theme=dracula&langs_count=8">
     <source media="(prefers-color-scheme: light)" srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=CavMCarolina&layout=compact&theme=catppuccin_latte&langs_count=8">
-    <img align="right" height="200" alt="linguagens" src="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
+    <img height="200" alt="linguagens" src="https://github-readme-stats.vercel.app/api?username=CavMCarolina&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
   </picture>
 </div>
-
-<br><br><br><br><br><br><br><br><br>
 
 ##
 
